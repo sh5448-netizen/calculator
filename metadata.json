@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Smart Calculator",
+  "description": "A high-end, responsive calculator web app featuring standard arithmetic operations, a calculation history, and an AI-powered math assistant for explaining complex results.",
+  "requestFramePermissions": []
+}
